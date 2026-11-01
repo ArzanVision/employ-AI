@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>EMPLOY-AI</title>
+  <style>
+    body{font-family:Arial; text-align:center; background:#f0f7ff; padding:30px}
+    .header{background:#0052cc; color:white; padding:20px; border-radius:12px}
+    .row{display:flex; justify-content:center; gap:20px; margin:20px 0}
+    .box{background:white; border:2px solid #0052cc; padding:15px; border-radius:10px; width:150px}
+    .engine{background:#0052cc; color:white; padding:10px 20px; border-radius:8px; margin:20px auto; width:fit-content}
+  </style>
+</head>
+<body>
+  <div class="header"><h1>EMPLOY-AI</h1></div>
+  
+  <div class="row">
+    <div class="box">WORKERS</div>
+    <div class="box">CUSTOMERS</div>
+    <div class="box">EMPLOYERS</div>
+  </div>
+
+  <div class="engine">AI INTELLIGENCE</div>
+
+  <div class="row">
+    <div class="box">SKILL ANALYSIS</div>
+    <div class="box">OPPORTUNITY MATCHING</div>
+    <div class="box">MARKET RESEARCH</div>
+  </div>
+
+  <div class="engine">OPPORTUNITY ENGINE</div>
+
+  <div class="row">
+    <div class="box">JOBS</div>
+    <div class="box">PROJECTS</div>
+    <div class="box">BUSINESS CREATION</div>
+  </div>
+</body>
+</html>
